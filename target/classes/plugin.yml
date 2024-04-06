@@ -1,0 +1,92 @@
+name: Mimi_Core
+version: '0.1_Beta'
+main: me.mimi_py.mimi_core.Mimi_Core
+api-version: '1.20'
+commands:
+  deadzone:
+    description: Set dead zone
+    usage: /<command> set/remove A-Z Size
+    permission: mimi.deadzone
+    tab-complete: me.mimi_py.mimi_core.TabCompleter
+permissions:
+  mimi.deadzone:
+    description: Allows access to the Deadzone command
+    default: op
+  mimi.mineA:
+    description: Allows access to mineA
+    default: not op
+  mimi.mineB:
+    description: Allows access to mineB
+    default: not op
+  mimi.mineC:
+    description: Allows access to mineC
+    default: not op
+  mimi.mineD:
+    description: Allows access to mineD
+    default: not op
+  mimi.mineE:
+    description: Allows access to mineE
+    default: not op
+  mimi.mineF:
+    description: Allows access to mineF
+    default: not op
+  mimi.mineG:
+    description: Allows access to mineG
+    default: not op
+  mimi.mineH:
+    description: Allows access to mineH
+    default: not op
+  mimi.mineI:
+    description: Allows access to mineI
+    default: not op
+  mimi.mineJ:
+    description: Allows access to mineJ
+    default: not op
+  mimi.mineK:
+    description: Allows access to mineK
+    default: not op
+  mimi.mineL:
+    description: Allows access to mineL
+    default: not op
+  mimi.mineM:
+    description: Allows access to mineM
+    default: not op
+  mimi.mineN:
+    description: Allows access to mineN
+    default: not op
+  mimi.mineO:
+    description: Allows access to mineO
+    default: not op
+  mimi.mineP:
+    description: Allows access to mineP
+    default: not op
+  mimi.mineQ:
+    description: Allows access to mineQ
+    default: not op
+  mimi.mineR:
+    description: Allows access to mineR
+    default: not op
+  mimi.mineS:
+    description: Allows access to mineS
+    default: not op
+  mimi.mineT:
+    description: Allows access to mineT
+    default: not op
+  mimi.mineU:
+    description: Allows access to mineU
+    default: not op
+  mimi.mineV:
+    description: Allows access to mineV
+    default: not op
+  mimi.mineW:
+    description: Allows access to mineW
+    default: not op
+  mimi.mineX:
+    description: Allows access to mineX
+    default: not op
+  mimi.mineY:
+    description: Allows access to mineY
+    default: not op
+  mimi.mineZ:
+    description: Allows access to mineZ
+    default: not op
